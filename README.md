@@ -9,7 +9,7 @@
 
 ## ✨ About me
 
-Dedicated and passionate astrophysicist with a degree in Physics, Master's degree experience, and currently finalizing a PhD in the field. Specialized in research of low-luminosity active galaxies, focusing on detailed analysis of signatures left by active supermassive black holes on gas distribution and kinematics. Aiming to contribute to the understanding of the effects of nuclear activity on host galaxies.
+Astrophysicist with a solid background in Physics, currently completing a Ph.D. in the field. With 6 years of experience in data analysis applied to Astrophysics, using Python to develop data analysis and visualization algorithms.
 
 🚀 Embarking on a new journey in the tech field.
 
