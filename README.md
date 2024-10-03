@@ -9,7 +9,7 @@
 
 ## ✨ About me
 
-Astrophysicist with a solid background in Physics, currently completing a Ph.D. in the field. With 6 years of experience in data analysis applied to Astrophysics, using Python to develop data analysis and visualization algorithms.
+PhD in Physics with 6 years of experience in data analysis applied to Astrophysics, using Python to develop data analysis and visualization algorithms.
 
 🚀 Embarking on a new journey in the tech field.
 
